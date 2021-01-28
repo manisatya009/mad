@@ -1,6 +1,5 @@
 header:
     title: Welcome to my Portfolio!
-    image: assets/img/mani/myimage.jpg
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
