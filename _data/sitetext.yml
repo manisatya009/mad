@@ -76,7 +76,7 @@ clients:
 team:
     title: " Real Projects"
     text: "Synchrony"
-    subtext:  **Markdown** supported.
+    subtext:  "**Markdown** supported."
     section: team
     people:
       - name: "Pay as Guest"
